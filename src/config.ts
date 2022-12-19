@@ -1,5 +1,5 @@
 export default {
-    token: '', // Discord bot token
+    token: '', // MTA1NDM3NTkwNjg5NjAwMzE2Mw.G2tWa6.AwvSrLQLXXHnbxCUh0WVMKPYLbhF7PN5uH4LwE
     channels: [ // Array of allowed guilds IDs
         ''
     ],
